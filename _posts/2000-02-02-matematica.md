@@ -1,5 +1,5 @@
 ---
-title: "matemática"
+title: "Instrumentos"
 bg: orange
 color: white
 fa-icon: square-root-alt
