@@ -12,11 +12,11 @@ usar https://www.protectyourlinks.com/ para obtener
 un link corto protegido por captcha
 -->
 
-* {:.btn}  <i class="fas fa-gamepad"></i> [Acordeón]
-* {:.btn}  <i class="fas fa-gamepad"></i> [Aerófonos]
-* {:.btn}  <i class="fas fa-gamepad"></i> [Armónica]
-* {:.btn}  <i class="fas fa-gamepad"></i> [Bajo]
-* {:.btn}  <i class="fas fa-gamepad"></i> [Batería]
+* {:.btn}  <i class="fas fa-gamepad"></i> Acordeón
+* {:.btn}  <i class="fas fa-gamepad"></i> Aerófonos
+* {:.btn}  <i class="fas fa-gamepad"></i> Armónica
+* {:.btn}  <i class="fas fa-gamepad"></i> Bajo
+* {:.btn}  <i class="fas fa-gamepad"></i> Batería
 * {:.btn}  <i class="fas fa-gamepad"></i> [Bandoneón]
 * {:.btn}  <i class="fas fa-gamepad"></i> [Canto]
 * {:.btn}  <i class="fas fa-gamepad"></i> [Charango]
