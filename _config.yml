@@ -15,8 +15,8 @@ markdown: kramdown
 
 ### content configuration ###
 title:       "EMPA en Telegram"
-keywords:    "EMPA, telegram, grupos, estudio"
-description: "Una lista de grupos de estudio y canales de Telegram sobre EMPA"
+keywords:    ##
+description: ##
 source_link: "https://empaentelegram.github.io/EMPAenTelegram/"
 favicon:     ##
 touch_icon:  ##
