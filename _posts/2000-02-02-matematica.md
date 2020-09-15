@@ -1,6 +1,6 @@
 ---
 title: "Instrumentos"
-bg: orange
+bg: black
 color: white
 fa-icon: headphones
 ---
