@@ -20,9 +20,9 @@ Creado por y para estudiantes.
 
 Por favor, sé amable y respeta al resto.
 
-Si querés agregar un grupo que no existe o proponer alguna mejora, contactate con [@PipaPips](https://t.me/PipaPips) en Telegram.
+Si querés agregar algún grupo que no existe o proponer alguna mejora, contactate con [@PipaPips](https://t.me/PipaPips) en Telegram.
 
-**PS1: Los links están detrás de un [captcha](https://www.protectyourlinks.com/) para evitar los ataques de bots. Además, cuando entres al grupo se te va a pedir que vuelvas a confirmar que sos un humano apretando un bóton virtual. ¡Atent@!**
+**Importante: Los links están detrás de un [captcha](https://www.protectyourlinks.com/) para evitar los ataques de bots. Además, cuando entres al grupo se te va a pedir que vuelvas a confirmar que sos un humano apretando un bóton virtual. ¡Atent@!**
 
 <span class="editongithub">
 	<a href="{{site.github.repository_url}}/blob/master/{{page.path}}">
