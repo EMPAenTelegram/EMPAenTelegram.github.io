@@ -18,10 +18,8 @@ title:       "EMPA en Telegram"
 keywords:    "EMPA, telegram, grupos, estudio"
 description: "Una lista de grupos de estudio y canales de Telegram sobre EMPA"
 source_link: "https://empaentelegram.github.io/EMPAenTelegram/"
-favicon:     ""
-touch_icon:  ""
-google_analytics_key: ## put YOUR key here to enable tracking! (blank to disable)
-
+favicon:     ##
+touch_icon:  ##
 
 ### template colors, used site-wide via css ###
 colors:
