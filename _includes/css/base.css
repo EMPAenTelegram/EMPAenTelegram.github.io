@@ -58,6 +58,11 @@
 		-webkit-text-size-adjust: 100%;
  }
 
+.texto-justificado{
+
+text-align: justify;
+
+}
 
 /* #Typography
 ================================================== */
