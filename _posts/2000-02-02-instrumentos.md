@@ -36,8 +36,3 @@ Grupos específicos para charlar con tus compañer@s colegas, compartir conocimi
  
 
 
-<span class="editongithub">
-	<a href="{{site.github.repository_url}}/blob/master/{{page.path}}">
-		<i class="fas fa-pen"></i> Editar en GitHub
-	</a>
-</span>
