@@ -2,7 +2,6 @@
 title: "Instrumentos"
 bg: black
 color: white
-style: center
 fa-icon: music
 ---
 
