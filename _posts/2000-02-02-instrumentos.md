@@ -11,6 +11,7 @@ No poner los links de t.joinchat directamente,
 usar https://www.protectyourlinks.com/ para obtener
 un link corto protegido por captcha
 -->
+Grupos específicos según instrumento para charlar con tus compañeros colegas, compartir conocimientos, información y demás:
 
 * {:.btn}  <i class="fas fa-music"></i>[Acordeón](https://www.proyl.com/1yoKk2XH6)
 * {:.btn}  <i class="fas fa-music"></i>[Aerófonos](https://www.proyl.com/73pHTnB6s)
