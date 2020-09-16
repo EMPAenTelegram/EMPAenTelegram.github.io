@@ -4,7 +4,6 @@ bg: black
 color: white
 fa-icon: music
 ---
-#### INTRUMENTOS
 
 <!---
 No poner los links de t.joinchat directamente,
