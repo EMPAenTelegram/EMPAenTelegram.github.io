@@ -148,7 +148,7 @@ nav ul li {
 
 nav ul li a, nav ul li a:visited {
   display:block;
-  color:#fff;
+  color:#eee;
   text-decoration:none;
   font-weight:600;
   opacity:.75;
@@ -184,7 +184,7 @@ nav ul li:hover, nav ul li.active {
   padding: 8px 0;
   min-height:0;
   text-align:center;
-  background-color:#2e2e2e;
+  background-color:#df3d48;
   background-image:none;
 }
 #footer .container p { font-size:13px; margin:0; }
@@ -221,7 +221,7 @@ nav ul li:hover, nav ul li.active {
   position: static;
   margin-top: -8px;
 }
-.sectiondivider .fa-circle { color: #fff; }
+.sectiondivider .fa-circle { color: #df3d48; }
 
 .sectiondivider h5 {
   font-size:15px;
