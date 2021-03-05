@@ -32,7 +32,7 @@ code, pre { font-family: Monaco, Menlo, Consolas, "Courier New", monospace; }
 
 /* spesifically inline code */
 code, pre {
-  background: rgba(255,255,255,0.2);
+  background: light-gray;
   display: inline;
   word-wrap: break-word;
 }
