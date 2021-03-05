@@ -23,13 +23,16 @@ touch_icon:  ##
 
 ### template colors, used site-wide via css ###
 colors:
-  black:     '#111111'
-  white:     '#f8f8f8'
-  blue:      '#49a7e9'
-  green:     '#9bcf2f'
-  purple:    '#c869bf'
-  orange:    '#fab125'
-  turquoise: '#0fbfcf'
+  black:      '#111111'
+  white:      '#f8f8f8'
+  blue:       '#49a7e9'
+  green:      '#9bcf2f'
+  purple:     '#c869bf'
+  orange:     '#fab125'
+  turquoise:  '#0fbfcf'
+  light-gray: '#eeeeee'
+  dark-gray:  '#444444'
+  red:        '#df3d48'
 
 kramdown:
   auto_ids:  false
