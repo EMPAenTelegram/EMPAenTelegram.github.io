@@ -23,8 +23,8 @@ touch_icon:  ##
 
 ### template colors, used site-wide via css ###
 colors:
-  black:      '#111111'
-  white:      '#f8f8f8'
+  black:      '#eeeeee'
+  white:      '#444444'
   blue:       '#49a7e9'
   green:      '#9bcf2f'
   purple:     '#c869bf'
